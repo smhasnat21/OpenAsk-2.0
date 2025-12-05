@@ -1,0 +1,5 @@
+{
+  "name": "OpenAsk 2.0",
+  "description": "A modern, minimal AI-powered Q&A application featuring multimodal capabilities (text and images) for OCR, object recognition, and summarization.",
+  "requestFramePermissions": []
+}
